@@ -70,6 +70,6 @@ if __name__ == "__main__":
     to_do_list.add_task("Run in docker")
     to_do_list.view_task()
 
-    to_do_list.user_interface()
+    # to_do_list.user_interface()
 
 
