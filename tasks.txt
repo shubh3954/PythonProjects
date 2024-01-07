@@ -1,0 +1,4 @@
+Create Python Project
+Push to github
+Run in docker
+new task
